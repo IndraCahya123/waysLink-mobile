@@ -1,0 +1,12 @@
+{
+  "name": "dumbLinks",
+  "displayName": "dumbLinks",
+  "expo": {
+    "name": "dumbLinks",
+    "slug": "dumbLinks",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
